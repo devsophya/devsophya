@@ -15,7 +15,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://img.icons8.com/fluent/512/docker.png">
   <img align="center" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp">
-  <img align="center" height="30" width="40" src="https://www.dtidigital.com.br/wp-content/uploads/2019/02/1_DeBhsZUhS7RPLwyd1-Ul8A.png">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
 </div>  
