@@ -1,8 +1,3 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=BE185D&size=26&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+a+Sophya!;Front+End+Developer;React+|+Next+|+Angular" 
-  />
-</p>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
